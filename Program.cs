@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Exploring GIT")
+            Console.WriteLine("Exploring GIT");
+            Console.WriteLine("Hi I am pooja do the changes ");
         }
     }
 }
